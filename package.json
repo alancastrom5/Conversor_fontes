@@ -1,0 +1,14 @@
+{
+  "name": "conversor_fontes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ttf2woff": "^3.0.0"
+  }
+}
